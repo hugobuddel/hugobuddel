@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently (2025) working on ScopeSim and ESO Pipelines.
+- 🌱 I’m currently learning rockstar.
+
 <!--
 **hugobuddel/hugobuddel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
